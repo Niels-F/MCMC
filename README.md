@@ -1,4 +1,4 @@
-# MCMC Parameter Estimation for Planetary Interior Models using CEPAM
+# 🪐 MCMC -- Parameter Estimation for Planetary Interior Models using CEPAM 🪐
 
 This repository contains a Python script that performs **Markov Chain Monte Carlo (MCMC)** simulations to estimate internal structure parameters of a planetary model. The script uses the **CEPAM** planetary evolution code to simulate physical outputs (e.g., radius, gravitational moments), and optimizes parameters to fit observations.
 
