@@ -1,0 +1,8 @@
+parameters = ['mnoyau','zatm_i','zatm_r','zdeep_i','zdeep_r','ppt']
+mnoyau_range = 0.1, 0.3
+zatm_i_range = 0.0, 0.05
+zatm_r_range = 0.0, 0.1
+zdeep_i_range = 0.0, 0.05
+zdeep_r_range = 0.0, 0.1
+ppt_range = 0.001, 0.05
+prob_ini = {'mnoyau': 0.2, 'zatm_i': 0.01, 'zatm_r': 0.02, 'zdeep_i': 0.01, 'zdeep_r': 0.02, 'ppt': 0.01}
